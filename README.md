@@ -59,14 +59,13 @@ Use [Code Snippets](https://wordpress.org/plugins/easy-code-manager/) or similar
 - Never modify core plugin files
 
 ## 📂 Categories
-- **[Product & Catalog](./product-catalog/)** - Product management and catalog
-- **[Payment & Subscriptions](./payment-subscriptions/)** - Payment methods and subscriptions
+- **[Subscriptions](./subscriptions/)** - Recurring payments and subscriptions
 
 
 ## 📝 Available Snippets
 
 ### Payment & Checkout
-- [Custom Subscription Intervals](./PaymentAndCheckout/HOW_TO_ADD_CUSTOM_SUBSCRIPTION_INTERVAL.md) - Add custom billing cycles (every 10 days, fortnightly, etc.)
+- [Custom Subscription Intervals](./Subscriptions/HOW_TO_ADD_CUSTOM_SUBSCRIPTION_INTERVAL.md) - Add custom billing cycles (every 10 days, fortnightly, etc.)
 
 ### Other Categories
 _More snippets coming soon! [Contribute yours](#-how-to-contribute)_
